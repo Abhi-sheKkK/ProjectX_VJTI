@@ -1,2 +1,2 @@
-Name: Abhishek Kotwani
-whatsapp no.: 8329610228
+ProjectX is a mentorship program at VJTI. this repo is of the taks done for selection process.
+
