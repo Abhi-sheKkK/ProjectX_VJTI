@@ -1,2 +1,2 @@
-ProjectX is a mentorship program at VJTI. this repo is of the taks done for selection process.
+ProjectX is a mentorship program at VJTI. this repo is of the tasks done for selection process.
 
